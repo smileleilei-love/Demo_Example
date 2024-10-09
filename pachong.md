@@ -22,3 +22,10 @@ pip install lxml --> from lxml import etree <br> html = etrre.HTML('网页源码
 pip install pymysql import pymysql <br>
 conn = pymysql.connect(host="",user="",password="",database="",charset="utf8")<br>
 然后进行CRUD
+
+-----------------------------------------------------------------------
+
+然后拿到对应的数据，进行自用分析 。(本文仅用于学习，如果出现其他商业后果自负)
+
+
+
